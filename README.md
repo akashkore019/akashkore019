@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Akash Rajkumar Kore
 
-### Full Stack Developer | UI/UX Designer | Freelancer
+### Full Stack Developer | Full Stack Software Developer | Freelancer
 
 <div align="center">
 
