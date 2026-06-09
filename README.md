@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Now-667eea?style=for-the-badge&logo=globe)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akashkore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akashkore19)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-E63946?style=for-the-badge&logo=gmail)](mailto:akash@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github)](https://github.com/akashkore019)
 
